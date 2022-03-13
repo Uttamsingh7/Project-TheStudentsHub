@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#navbar{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+.nav-items{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+}
+
+.nav-items ul li{
+    list-style-type: none;
+    display: inline;
+    margin: 0px;
+    top: 0px;
+}
+
+
+a{
+    text-decoration: none; 
+}
